@@ -1,0 +1,26 @@
+{
+  "name": "faby-backend",
+  "version": "0.0.0",
+  "description": "node express backend",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -b",
+    "start": "node app.js"
+  },
+  "author": "William Wu",
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24",
+    "mongoose": "^3.9.7"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.3",
+    "should": "^4.0.4",
+    "supertest": "^0.13.0"
+  }
+}
