@@ -16,7 +16,8 @@
     "body-parser": "^1.16.1",
     "express": "^4.14.1",
     "mongodb": "^2.2.24",
-    "mongoose": "^3.9.7"
+    "mongoose": "^4.8.5",
+    "mongoose-paginate": "^5.0.3"
   },
   "devDependencies": {
     "mocha": "^1.21.3",
