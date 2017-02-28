@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-var mongoUrl = process.env.MONGO_URL || 'mongodb://chunxchun:faby_test_db611@ds161159.mlab.com:61159/faby_test_db';
+var mongoUrl = process.env.MONGO_URL;
 var options = {
   mongoose: { safe: true },
   server: {
