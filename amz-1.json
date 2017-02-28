@@ -1,0 +1,6645 @@
+[
+  {
+    "ASIN": [
+      "B006H3BVKC"
+    ],
+    "ParentASIN": [
+      "B0096E4T5S"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Nike-Mens-Pocket-Short-Black/dp/B006H3BVKC%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB006H3BVKC"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Nike-Mens-Pocket-Short-Black/dp/tech-data/B006H3BVKC%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB006H3BVKC"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB006H3BVKC%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB006H3BVKC"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB006H3BVKC%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB006H3BVKC"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB006H3BVKC%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB006H3BVKC"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B006H3BVKC%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB006H3BVKC"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B006H3BVKC%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB006H3BVKC"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B006H3BVKC%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB006H3BVKC"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL.jpg"
+        ],
+        "Height": [
+          {
+            "_": "200",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "200",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/21KnvjbuGYL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "200",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "200",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "LARGE"
+        ],
+        "Color": [
+          "Black"
+        ],
+        "Department": [
+          "mens"
+        ],
+        "EAN": [
+          "0666032969885"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0666032969885"
+            ]
+          }
+        ],
+        "Feature": [
+          "zippered pocket on the back right",
+          "100% Polyester",
+          "Brushed waistband with draw cord",
+          "Dri-FIT circular knit body fabric",
+          "9.25 inch inseam"
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "ItemDimensions": [
+          {
+            "Weight": [
+              {
+                "_": "100",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ]
+          }
+        ],
+        "Label": [
+          "Nike"
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "3800"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$38.00"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "Nike"
+        ],
+        "Model": [
+          "NK418635010LG"
+        ],
+        "MPN": [
+          "418635-BLCK-LGE"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "950",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "40",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "540",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "418635-BLCK-LGE"
+        ],
+        "ProductGroup": [
+          "Sports"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Publisher": [
+          "Nike"
+        ],
+        "Size": [
+          "Large"
+        ],
+        "Studio": [
+          "Nike"
+        ],
+        "Title": [
+          "Nike Men's 3 Pocket Fly Short, Black, L"
+        ],
+        "UPC": [
+          "666032969885"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "666032969885"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B0059CM3GI"
+    ],
+    "ParentASIN": [
+      "B004Y5PYLM"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Nike-Tempo-Track-Shorts-Black/dp/B0059CM3GI%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0059CM3GI"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Nike-Tempo-Track-Shorts-Black/dp/tech-data/B0059CM3GI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0059CM3GI"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB0059CM3GI%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0059CM3GI"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB0059CM3GI%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0059CM3GI"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB0059CM3GI%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0059CM3GI"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B0059CM3GI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0059CM3GI"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B0059CM3GI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0059CM3GI"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B0059CM3GI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB0059CM3GI"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "swatch"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41g3%2BrqoRFL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41g3%2BrqoRFL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41g3%2BrqoRFL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41g3%2BrqoRFL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41g3%2BrqoRFL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41g3%2BrqoRFL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81VCFDc2RiL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41nMArSn7EL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41nMArSn7EL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41nMArSn7EL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41nMArSn7EL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41nMArSn7EL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41nMArSn7EL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81fTAJlptlL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/511Tk3ZM6ZL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/91MWUoCD-GL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "2000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "XL"
+        ],
+        "Color": [
+          "Black"
+        ],
+        "Department": [
+          "womens"
+        ],
+        "EAN": [
+          "0886059932611"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0886059932611"
+            ]
+          }
+        ],
+        "Feature": [
+          "Lightweight track shorts with fully lined mesh brief",
+          "Elastic drawstring waistband",
+          "Moisture-wicking, breathable polyester"
+        ],
+        "IsAdultProduct": [
+          "0"
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "ItemDimensions": [
+          {
+            "Weight": [
+              {
+                "_": "25",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ]
+          }
+        ],
+        "Label": [
+          "Nike"
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "3058"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$30.58"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "Nike"
+        ],
+        "Model": [
+          "Tempo Short"
+        ],
+        "MPN": [
+          "716453-010. XL"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "213",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "835",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "35",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "543",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "716453-010. XL"
+        ],
+        "ProductGroup": [
+          "Apparel"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Publisher": [
+          "Nike"
+        ],
+        "Size": [
+          "X-Large"
+        ],
+        "Studio": [
+          "Nike"
+        ],
+        "Title": [
+          "Nike Tempo Track Shorts, XL, Black"
+        ],
+        "UPC": [
+          "886059932611"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "886059932611"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B008FPTW3S"
+    ],
+    "ParentASIN": [
+      "B00AACRBA0"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Nike-Fly-2-0-Training-Shorts/dp/B008FPTW3S%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB008FPTW3S"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Nike-Fly-2-0-Training-Shorts/dp/tech-data/B008FPTW3S%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008FPTW3S"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB008FPTW3S%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008FPTW3S"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB008FPTW3S%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008FPTW3S"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB008FPTW3S%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008FPTW3S"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B008FPTW3S%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008FPTW3S"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B008FPTW3S%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008FPTW3S"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B008FPTW3S%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB008FPTW3S"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "58",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "123",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "385",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "swatch"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81DRgAd611L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41rzT8mnKLL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41rzT8mnKLL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41rzT8mnKLL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41rzT8mnKLL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41rzT8mnKLL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41rzT8mnKLL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81ZeJUw1o5L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41aFMTp5KeL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81DRgAd611L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "Large"
+        ],
+        "Color": [
+          "Black"
+        ],
+        "Department": [
+          "mens"
+        ],
+        "EAN": [
+          "0886916679185"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0886916679185"
+            ]
+          }
+        ],
+        "Feature": [
+          "Dri-FIT Fabric - Wicks away sweat to help keep you dry and comfortable",
+          "Wide Waistband - With drawcord for a snug, comfortable fit",
+          "Side Panels - For enhanced range of motion",
+          "Flat-Seam Construction - Helps to minimise chafing",
+          "Side pockets for storage"
+        ],
+        "IsAdultProduct": [
+          "0"
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "ItemDimensions": [
+          {
+            "Height": [
+              {
+                "_": "700",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "125",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "50",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "500",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "Label": [
+          "Nike"
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "3400"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$34.00"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "Nike"
+        ],
+        "Model": [
+          "519501"
+        ],
+        "MPN": [
+          "519501-010. L"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "323",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "1063",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "50",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "630",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "519501-010. L"
+        ],
+        "ProductGroup": [
+          "Sports"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Publisher": [
+          "Nike"
+        ],
+        "Size": [
+          "Large"
+        ],
+        "Studio": [
+          "Nike"
+        ],
+        "Title": [
+          "Nike Fly 2.0 Training Shorts - Large - Black"
+        ],
+        "UPC": [
+          "886916679185"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "886916679185"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B010GS7D2I"
+    ],
+    "ParentASIN": [
+      "B004TZZ0WK"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Nike-Womens-3-Inch-Compression-Shorts/dp/B010GS7D2I%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB010GS7D2I"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Nike-Womens-3-Inch-Compression-Shorts/dp/tech-data/B010GS7D2I%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB010GS7D2I"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB010GS7D2I%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB010GS7D2I"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB010GS7D2I%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB010GS7D2I"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB010GS7D2I%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB010GS7D2I"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B010GS7D2I%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB010GS7D2I"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B010GS7D2I%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB010GS7D2I"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B010GS7D2I%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB010GS7D2I"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41lWKGQ679L._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41lWKGQ679L._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41lWKGQ679L._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41lWKGQ679L._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41lWKGQ679L._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41lWKGQ679L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/61UZd4Gb6tL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "1001",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1001",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41cSamCJ-wL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/61eRxlPQ86L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "1001",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1001",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "Medium"
+        ],
+        "Color": [
+          "Black/White"
+        ],
+        "Creator": [
+          {
+            "_": "NIKE",
+            "$": {
+              "Role": "Designer"
+            }
+          }
+        ],
+        "Department": [
+          "womens"
+        ],
+        "EAN": [
+          "0091207378078"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0091207378078"
+            ]
+          }
+        ],
+        "Feature": [
+          "Nike Pro Cool fabric keeps you cool when the action heats up.",
+          "Side seams trace your natural shape for optimal movement.",
+          "Body-skimming fit makes this short an ideal base layer."
+        ],
+        "IsAdultProduct": [
+          "0"
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "ItemDimensions": [
+          {
+            "Height": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "100",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "Label": [
+          "Nike"
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "3500"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$35.00"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "Nike"
+        ],
+        "Model": [
+          "725443-010"
+        ],
+        "MPN": [
+          "725443-010"
+        ],
+        "NumberOfItems": [
+          "1"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "130",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "640",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "25",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "610",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "725443-010"
+        ],
+        "ProductGroup": [
+          "Sports"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Publisher": [
+          "Nike"
+        ],
+        "Size": [
+          "Medium"
+        ],
+        "Studio": [
+          "Nike"
+        ],
+        "Title": [
+          "Nike Women's Pro Cool 3-Inch Compression Shorts (Black/White/Medium)"
+        ],
+        "UPC": [
+          "091207378078"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "091207378078"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B00O4CKEM4"
+    ],
+    "ParentASIN": [
+      "B0087S9G5W"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Nike-Challenger-Running-Anthracite-Reflective/dp/B00O4CKEM4%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00O4CKEM4"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Nike-Challenger-Running-Anthracite-Reflective/dp/tech-data/B00O4CKEM4%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKEM4"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00O4CKEM4%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKEM4"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00O4CKEM4%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKEM4"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00O4CKEM4%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKEM4"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B00O4CKEM4%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKEM4"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B00O4CKEM4%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKEM4"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B00O4CKEM4%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKEM4"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "swatch"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41uxg4Yb7nL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41uxg4Yb7nL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41uxg4Yb7nL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41uxg4Yb7nL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41uxg4Yb7nL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41uxg4Yb7nL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81Nb2wjy31L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GZSLPHAML._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GZSLPHAML._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GZSLPHAML._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GZSLPHAML._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GZSLPHAML._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GZSLPHAML.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81nfK2QNOyL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41q-WfGrBWL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81w1vuOYnVL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "2000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "Large"
+        ],
+        "Color": [
+          "Anthracite/Black"
+        ],
+        "Department": [
+          "mens"
+        ],
+        "EAN": [
+          "0888407366710"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0888407366710"
+            ]
+          }
+        ],
+        "Feature": [
+          "Nike Dry fabric with Dri-FIT technology helps you stay dry and comfortable.",
+          "Side panel mesh enhances ventilation.",
+          "Built-in liner provides sweat-wicking support."
+        ],
+        "IsAdultProduct": [
+          "0"
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "ItemDimensions": [
+          {
+            "Height": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "Label": [
+          "Nike"
+        ],
+        "Languages": [
+          {
+            "Language": [
+              {
+                "Name": [
+                  "Italian"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "German"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "French"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "English"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "Spanish"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              }
+            ]
+          }
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "3500"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$35.00"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "Nike"
+        ],
+        "Model": [
+          "644242"
+        ],
+        "MPN": [
+          "644242"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "190",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "850",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "35",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "590",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "644242"
+        ],
+        "ProductGroup": [
+          "Apparel"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Publisher": [
+          "Nike"
+        ],
+        "Size": [
+          "Large"
+        ],
+        "Studio": [
+          "Nike"
+        ],
+        "Title": [
+          "Men's Nike 7\" Challenger Dry Running Short Black/Anthracite/Reflective Silver Size Large"
+        ],
+        "UPC": [
+          "888407366710"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "888407366710"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B00DGCJ4NI"
+    ],
+    "ParentASIN": [
+      "B00W4DQA8M"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Nike-Black-Dri-Fit-Polyester-Shorts/dp/B00DGCJ4NI%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00DGCJ4NI"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Nike-Black-Dri-Fit-Polyester-Shorts/dp/tech-data/B00DGCJ4NI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGCJ4NI"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00DGCJ4NI%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGCJ4NI"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00DGCJ4NI%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGCJ4NI"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00DGCJ4NI%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGCJ4NI"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B00DGCJ4NI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGCJ4NI"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B00DGCJ4NI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGCJ4NI"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B00DGCJ4NI%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00DGCJ4NI"
+            ]
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41kGX%2BxTUrL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "15",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41kGX%2BxTUrL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "37",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41kGX%2BxTUrL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "37",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41kGX%2BxTUrL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "54",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41kGX%2BxTUrL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "79",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41kGX%2BxTUrL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "246",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31jLGB-2SkL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "14",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31jLGB-2SkL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "36",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31jLGB-2SkL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "36",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31jLGB-2SkL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "53",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31jLGB-2SkL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "77",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31jLGB-2SkL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "241",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31ummC5GK-L._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31ummC5GK-L._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31ummC5GK-L._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31ummC5GK-L._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31ummC5GK-L._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/31ummC5GK-L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "S"
+        ],
+        "Color": [
+          "Black/Anthracite"
+        ],
+        "Department": [
+          "boys"
+        ],
+        "EAN": [
+          "0886061871885"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0886061871885"
+            ]
+          }
+        ],
+        "Feature": [
+          "Stretch waistband",
+          "Drawcord for secure fit",
+          "Dri-fit",
+          "Lightweight",
+          "Breathable"
+        ],
+        "ItemDimensions": [
+          {
+            "Height": [
+              {
+                "_": "100",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "930",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "830",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "1513"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$15.13"
+            ]
+          }
+        ],
+        "Model": [
+          "826484"
+        ],
+        "MPN": [
+          "LYSB00DGCJ4NI-SPRTSEQIP"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "190",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "1260",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "30",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "1020",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "LYSB00DGCJ4NI-SPRTSEQIP"
+        ],
+        "ProductGroup": [
+          "Sports"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Size": [
+          "Small"
+        ],
+        "Title": [
+          "New Boys Nike Black Grey Dri-Fit Polyester Fly Shorts (Small)"
+        ],
+        "UPC": [
+          "886061871885"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "886061871885"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B00EORUOLA"
+    ],
+    "ParentASIN": [
+      "B00AACRCNQ"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Nike-Dri-Fit-Running-Athletic-519501/dp/B00EORUOLA%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00EORUOLA"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Nike-Dri-Fit-Running-Athletic-519501/dp/tech-data/B00EORUOLA%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EORUOLA"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00EORUOLA%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EORUOLA"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00EORUOLA%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EORUOLA"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00EORUOLA%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EORUOLA"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B00EORUOLA%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EORUOLA"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B00EORUOLA%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EORUOLA"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B00EORUOLA%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00EORUOLA"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "55",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "117",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "366",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "22",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "55",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "55",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "81",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "117",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41HYcbIcKML.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "366",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/51h20xskN-L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "1001",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "732",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "Large"
+        ],
+        "Color": [
+          "Anthracite/Anthracite/Black"
+        ],
+        "Department": [
+          "mens"
+        ],
+        "EAN": [
+          "0886916679338"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0886916679338"
+            ]
+          }
+        ],
+        "Feature": [
+          "Body (solid): Dri-FIT 180g. 100% polyester basic interlock.",
+          "Pocket: Dri-FIT 79g. 100% polyester warp knit mesh."
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "ItemDimensions": [
+          {
+            "Height": [
+              {
+                "_": "700",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "125",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "100",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "500",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "Label": [
+          "Nike"
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "3400"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$34.00"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "Nike"
+        ],
+        "Model": [
+          "519501-060-L"
+        ],
+        "MPN": [
+          "519501-060"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "110",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "830",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "15",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "520",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "519501-060"
+        ],
+        "ProductGroup": [
+          "Sports"
+        ],
+        "ProductTypeName": [
+          "SHORTS"
+        ],
+        "Publisher": [
+          "Nike"
+        ],
+        "Size": [
+          "Large"
+        ],
+        "Studio": [
+          "Nike"
+        ],
+        "Title": [
+          "Nike Dri-Fit Men's Fly Short 2.0 Running Athletic 519501 Gray Size L"
+        ],
+        "UPC": [
+          "886916679338"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "886916679338"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B005ADB7D6"
+    ],
+    "ParentASIN": [
+      "B005FS52T6"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/TEMPO-SHORT-GIRLS-455912-010-BLACK/dp/B005ADB7D6%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB005ADB7D6"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/TEMPO-SHORT-GIRLS-455912-010-BLACK/dp/tech-data/B005ADB7D6%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005ADB7D6"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB005ADB7D6%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005ADB7D6"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB005ADB7D6%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005ADB7D6"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB005ADB7D6%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005ADB7D6"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B005ADB7D6%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005ADB7D6"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B005ADB7D6%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005ADB7D6"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B005ADB7D6%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB005ADB7D6"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41z6sutpYiL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81zpUJ9-nyL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "2000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "Color": [
+          "Black/White"
+        ],
+        "Department": [
+          "girls"
+        ],
+        "EAN": [
+          "0886059920649"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0886059920649"
+            ]
+          }
+        ],
+        "Feature": [
+          "Nike Girls 3.5\" Tempo #455912-010"
+        ],
+        "IsAdultProduct": [
+          "0"
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "Label": [
+          "nike"
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "2500"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$25.00"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "nike"
+        ],
+        "Model": [
+          "455912-010"
+        ],
+        "MPN": [
+          "886059920649-20160101"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "189",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "1047",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "22",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "606",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "886059920649-20160101"
+        ],
+        "ProductGroup": [
+          "Shoes"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Publisher": [
+          "nike"
+        ],
+        "Size": [
+          "Medium"
+        ],
+        "Studio": [
+          "nike"
+        ],
+        "Title": [
+          "NIKE TEMPO SHORT GIRLS 455912-010 (M, BLACK/WHITE)"
+        ],
+        "UPC": [
+          "886059920649"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "886059920649"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B01FZ03FO2"
+    ],
+    "ParentASIN": [
+      "B01N7U0MM2"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Womens-Nike-Tempo-Running-Short/dp/B01FZ03FO2%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB01FZ03FO2"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Womens-Nike-Tempo-Running-Short/dp/tech-data/B01FZ03FO2%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01FZ03FO2"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB01FZ03FO2%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01FZ03FO2"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB01FZ03FO2%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01FZ03FO2"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB01FZ03FO2%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01FZ03FO2"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B01FZ03FO2%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01FZ03FO2"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B01FZ03FO2%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01FZ03FO2"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B01FZ03FO2%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB01FZ03FO2"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41DCaNrHTpL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41DCaNrHTpL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41DCaNrHTpL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41DCaNrHTpL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41DCaNrHTpL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41DCaNrHTpL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/61npj2cmu2L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "1000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/5183aRAOg1L.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/61jkM0ytUIL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "1000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1000",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports Apparel"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "ClothingSize": [
+          "Small"
+        ],
+        "Color": [
+          "Black/White/Wolf Grey"
+        ],
+        "Department": [
+          "womens"
+        ],
+        "EAN": [
+          "0675911617496"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0675911617496"
+            ]
+          }
+        ],
+        "Feature": [
+          "Nike Dry fabric helps you stay dry and comfortable.",
+          "3in inseam features a curved hem for great range of motion.",
+          "Side mesh panels ventilate to keep you cool.",
+          "Internal audio pocket on the back-right provides convenient storage for small items.",
+          "Reflective details enhance visibility in low-light conditions."
+        ],
+        "ItemDimensions": [
+          {
+            "Height": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "100",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "300",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "2967"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$29.67"
+            ]
+          }
+        ],
+        "Model": [
+          "831558-011_S"
+        ],
+        "MPN": [
+          "831558-011_S"
+        ],
+        "NumberOfItems": [
+          "1"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "250",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "1550",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "25",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "670",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "831558-011_S"
+        ],
+        "ProductGroup": [
+          "Apparel"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Size": [
+          "Small"
+        ],
+        "Title": [
+          "Women's Nike Dry Tempo Running Short Black/White/Wolf Grey Size Small"
+        ],
+        "UPC": [
+          "675911617496"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "675911617496"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ASIN": [
+      "B00O4CKRN0"
+    ],
+    "ParentASIN": [
+      "B00LU6YZUE"
+    ],
+    "DetailPageURL": [
+      "https://www.amazon.com/Challenger-Shorts-Anthracite-Silver-Medium/dp/B00O4CKRN0%3Fpsc%3D1%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00O4CKRN0"
+    ],
+    "ItemLinks": [
+      {
+        "ItemLink": [
+          {
+            "Description": [
+              "Technical Details"
+            ],
+            "URL": [
+              "https://www.amazon.com/Challenger-Shorts-Anthracite-Silver-Medium/dp/tech-data/B00O4CKRN0%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKRN0"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Baby Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/baby/add-item.html%3Fasin.0%3DB00O4CKRN0%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKRN0"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wedding Registry"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wedding/add-item.html%3Fasin.0%3DB00O4CKRN0%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKRN0"
+            ]
+          },
+          {
+            "Description": [
+              "Add To Wishlist"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/registry/wishlist/add-item.html%3Fasin.0%3DB00O4CKRN0%26SubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKRN0"
+            ]
+          },
+          {
+            "Description": [
+              "Tell A Friend"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/pdp/taf/B00O4CKRN0%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKRN0"
+            ]
+          },
+          {
+            "Description": [
+              "All Customer Reviews"
+            ],
+            "URL": [
+              "https://www.amazon.com/review/product/B00O4CKRN0%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKRN0"
+            ]
+          },
+          {
+            "Description": [
+              "All Offers"
+            ],
+            "URL": [
+              "https://www.amazon.com/gp/offer-listing/B00O4CKRN0%3FSubscriptionId%3DAKIAJ6MUBGDDACBPPCJA%26tag%3Dchunxchun-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D386001%26creativeASIN%3DB00O4CKRN0"
+            ]
+          }
+        ]
+      }
+    ],
+    "SmallImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL75_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "75",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "58",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "MediumImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL160_.jpg"
+        ],
+        "Height": [
+          {
+            "_": "160",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "123",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "LargeImage": [
+      {
+        "URL": [
+          "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL.jpg"
+        ],
+        "Height": [
+          {
+            "_": "500",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ],
+        "Width": [
+          {
+            "_": "385",
+            "$": {
+              "Units": "pixels"
+            }
+          }
+        ]
+      }
+    ],
+    "ImageSets": [
+      {
+        "ImageSet": [
+          {
+            "$": {
+              "Category": "swatch"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/814q-xg%2BlkL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "variant"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41x1KdsBKDL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41x1KdsBKDL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41x1KdsBKDL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41x1KdsBKDL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41x1KdsBKDL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41x1KdsBKDL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/81NOqXrFlFL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "Category": "primary"
+            },
+            "SwatchImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL30_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "30",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "23",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "SmallImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "ThumbnailImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL75_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "75",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "58",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "TinyImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL110_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "110",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "85",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "MediumImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL._SL160_.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "160",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "123",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "LargeImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/41GvWIQg0qL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "500",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "385",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ],
+            "HiResImage": [
+              {
+                "URL": [
+                  "https://images-na.ssl-images-amazon.com/images/I/814q-xg%2BlkL.jpg"
+                ],
+                "Height": [
+                  {
+                    "_": "2560",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ],
+                "Width": [
+                  {
+                    "_": "1969",
+                    "$": {
+                      "Units": "pixels"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ItemAttributes": [
+      {
+        "Binding": [
+          "Sports"
+        ],
+        "Brand": [
+          "Nike"
+        ],
+        "Color": [
+          "Anthracite/Black"
+        ],
+        "Department": [
+          "mens"
+        ],
+        "EAN": [
+          "0888407940705"
+        ],
+        "EANList": [
+          {
+            "EANListElement": [
+              "0888407940705"
+            ]
+          }
+        ],
+        "Feature": [
+          "Nike 9 inch Challenger Shorts deliver lightweight coverage and sweat-wicking support that lasts",
+          "Side panel: mesh adds cool ventilation so you'll be comfortable while your endurance takes you farther",
+          "Lightweight Dri-FIT fabric wicks sweat for dry comfort",
+          "Built-in liner provides sweat-wicking support",
+          "Side seam and drop-in pockets provide convenient storage"
+        ],
+        "IsAutographed": [
+          "0"
+        ],
+        "IsMemorabilia": [
+          "0"
+        ],
+        "ItemDimensions": [
+          {
+            "Weight": [
+              {
+                "_": "29",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ]
+          }
+        ],
+        "Label": [
+          "Nike"
+        ],
+        "Languages": [
+          {
+            "Language": [
+              {
+                "Name": [
+                  "Italian"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "German"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "French"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "English"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              },
+              {
+                "Name": [
+                  "Spanish"
+                ],
+                "Type": [
+                  "Manual"
+                ]
+              }
+            ]
+          }
+        ],
+        "ListPrice": [
+          {
+            "Amount": [
+              "3800"
+            ],
+            "CurrencyCode": [
+              "USD"
+            ],
+            "FormattedPrice": [
+              "$38.00"
+            ]
+          }
+        ],
+        "Manufacturer": [
+          "Nike"
+        ],
+        "Model": [
+          "644248-060"
+        ],
+        "MPN": [
+          "644248-060"
+        ],
+        "PackageDimensions": [
+          {
+            "Height": [
+              {
+                "_": "150",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Length": [
+              {
+                "_": "1299",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ],
+            "Weight": [
+              {
+                "_": "31",
+                "$": {
+                  "Units": "hundredths-pounds"
+                }
+              }
+            ],
+            "Width": [
+              {
+                "_": "795",
+                "$": {
+                  "Units": "hundredths-inches"
+                }
+              }
+            ]
+          }
+        ],
+        "PackageQuantity": [
+          "1"
+        ],
+        "PartNumber": [
+          "644248-060"
+        ],
+        "ProductGroup": [
+          "Apparel"
+        ],
+        "ProductTypeName": [
+          "SPORTING_GOODS"
+        ],
+        "Publisher": [
+          "Nike"
+        ],
+        "Size": [
+          "Medium"
+        ],
+        "Studio": [
+          "Nike"
+        ],
+        "Title": [
+          "New Nike- 9 Challenger Shorts Anthracite/Black/Silver Size Medium"
+        ],
+        "UPC": [
+          "888407940705"
+        ],
+        "UPCList": [
+          {
+            "UPCListElement": [
+              "888407940705"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
